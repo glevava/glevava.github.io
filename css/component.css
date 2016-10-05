@@ -269,7 +269,7 @@ div.bl-panel-items > div > div {
 /* --------------------------------------------------------	*/
 
 .progress {
-  height:40px;
+  height:30px;
   border-radius:0px;
   background:transparent !important;
   -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
@@ -279,7 +279,7 @@ div.bl-panel-items > div > div {
 .bar {
   height:30px;
   font-size:16px !important;
-  line-height:30px;
+  line-height:35px;
   background: #222535 !important;
   border:0px;
   -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
