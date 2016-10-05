@@ -239,12 +239,14 @@ div.bl-panel-items > div > div {
 .bl-content > ul li {
 	display: inline-block;
 	width: 20%;
+	font-size: 1.4em;
 	margin: 1%;
 }
 
 .bl-content > ul li a {
 	display: block;
 	padding: 0;
+    font-size: 1.4em;
 	border: 8px solid rgba(0,0,0,0.1);
 }
 
@@ -303,10 +305,6 @@ div.bl-panel-items > div > div {
   color:#333333;
   padding-right:10px;
 }
-
-
-
-
 
 
 /* Panel Items */
@@ -641,7 +639,7 @@ section.bl-expand .bl-icon-close {
 	}
 
 	.bl-content > ul li {
-		width: 100%;
+		width: 40%;
 	}
 	
 }
