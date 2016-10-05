@@ -104,7 +104,6 @@ a:hover {
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-    opacity: 0.2;
 	background: url('../images/contact.jpg') no-repeat;
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
@@ -446,16 +445,16 @@ div.bl-panel-items > div.bl-hide-current-work {
 /* Section background colors */
 
 .bl-main > section:first-child.bl-expand {
-	background: #144057;
+	background: #333333;
 }
 .bl-main > section:nth-child(2).bl-expand {
-	background: #2c2c2c;
+	background: #23e2348;
 }
 .bl-main > section:nth-child(3).bl-expand {
-	background: #ee6557;
+	background: #721919;
 }
 .bl-main > section:nth-child(4).bl-expand {
-	background: #bfbfbf;
+	background: #093411;
 }
 
 .bl-main.bl-expand-item > section:not(.bl-expand),
