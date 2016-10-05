@@ -37,7 +37,7 @@ body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #333333;
     background: #333;
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: 300;
 }
 
@@ -239,6 +239,7 @@ div.bl-panel-items > div > div {
 .bl-content > ul li {
 	display: inline-block;
 	width: 20%;
+	font-size: 1.2em;
 	margin: 1%;
 }
 
