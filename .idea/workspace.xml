@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1398">
@@ -61,18 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="glyphicons-halflings.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="component.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+            <state relative-caret-position="498">
+              <caret line="448" column="1" selection-start-line="448" selection-start-column="1" selection-end-line="448" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -88,8 +81,8 @@
       <list>
         <option value="/Volumes/CICLAD_HOME/bashrc" />
         <option value="$USER_HOME$/Dropbox/Transition Theme/Theme/index.html" />
-        <option value="$PROJECT_DIR$/css/component.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/component.css" />
       </list>
     </option>
   </component>
@@ -516,25 +509,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Dropbox/Transition Theme/Theme/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1995">
           <caret line="90" column="44" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -561,6 +546,14 @@
             <element signature="n#style#0;n#div#0;n#div#16;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#17;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="448" column="1" selection-start-line="448" selection-start-column="1" selection-end-line="448" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
