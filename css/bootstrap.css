@@ -101,6 +101,8 @@ sub {
 img {
   width: auto\9;
   height: auto;
+  display: block;
+  margin: auto;
   max-width: 50%;
   vertical-align: middle;
   border: 0;
