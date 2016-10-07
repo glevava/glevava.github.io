@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="component.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="283" column="13" selection-start-line="283" selection-start-column="13" selection-end-line="283" selection-end-column="13" />
+            <state relative-caret-position="558">
+              <caret line="282" column="21" selection-start-line="282" selection-start-column="21" selection-end-line="282" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
         <option value="/Volumes/CICLAD_HOME/bashrc" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/../Transition Theme/Theme/index.html" />
-        <option value="$PROJECT_DIR$/css/component.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/component.css" />
       </list>
     </option>
   </component>
@@ -413,14 +413,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fonts/icomoon.svg" />
     <entry file="file://$PROJECT_DIR$/../Transition Theme/Theme/index.html" />
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5453">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -434,14 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="283" column="13" selection-start-line="283" selection-start-column="13" selection-end-line="283" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/python-im-web-django-1-728.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -451,6 +435,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="69" column="240" selection-start-line="69" selection-start-column="240" selection-end-line="69" selection-end-column="240" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5453">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="282" column="21" selection-start-line="282" selection-start-column="21" selection-end-line="282" selection-end-column="21" />
           <folding />
         </state>
       </provider>
